@@ -1,0 +1,7 @@
+*
+!.gitignore
+!docker/
+!docker/spaceranger/
+!docker/spaceranger/Dockerfile
+!spatial_data/
+!spatial_scripts/
